@@ -1,6 +1,6 @@
-# my-vue
+# fingertip-device
 
-> a vue program
+> a searcher or reader
 
 ## Build Setup
 
