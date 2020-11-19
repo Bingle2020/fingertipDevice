@@ -7,6 +7,7 @@ import router from './router'
 import axios from 'axios'
 import VueAxios from 'vue-axios'
 import Store from './vuex'
+import './vant.js'
 
 Vue.use(Vuex)
 Vue.use(VueAxios, axios)
